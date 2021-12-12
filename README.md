@@ -2,4 +2,5 @@
 
 ## Estudante de desenvolvimento web :earth_americas:	
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Chaves-Dev&show_icons=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Chaves-Dev&show_icons=true&theme=radical)
+
