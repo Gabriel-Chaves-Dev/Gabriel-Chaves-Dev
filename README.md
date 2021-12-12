@@ -2,8 +2,7 @@
 
 ## Estudante de desenvolvimento web :earth_americas:	
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Chaves-Dev&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Chaves-Dev&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=gotham)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Chaves-Dev&theme=gotham&show_icons=true&locale=en&layout=compact" alt="Gabriel Chaves"  /></p>
